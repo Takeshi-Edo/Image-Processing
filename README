@@ -1,0 +1,4 @@
+Programme de traitement d'image et flux vidéo en c++
+
+Si vous programmez sous windows installer opencv via le site opencv.org
+Si vous programmez sous linux vous n'avez normalement pas besoin car lors de l'installation de linux une version d'opencv est installée
